@@ -277,7 +277,7 @@ Map your minikube ip to the necessary URLs
 127.0.0.1       localhost
 127.0.1.1       ubuntu
 192.168.49.2    databaseadmin.mutillidae.com
-192.168.49.2    databaseldap.mutillidae.com
+192.168.49.2    ldapadmin.mutillidae.com
 192.168.49.2    www.mutillidae.com
 # The following lines are desirable for IPv6 capable hosts
 ::1     ip6-localhost ip6-loopback
